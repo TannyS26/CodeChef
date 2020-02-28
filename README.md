@@ -1,1 +1,1 @@
-# CodeChef-Java
+# CodeChef
